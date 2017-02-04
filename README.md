@@ -1,12 +1,13 @@
 # Ng2CoreTemplate
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
-It provides a fully responsive core-template for angular2 projects.
-The projects `node-modules` provide:
+NG2CoreTemplate provides a fully responsive core-template for angular2 projects.
+The projects `node-modules` include:
 
-- a stable `Bootstrap3` version to use for ui-elements, media-query driven components and icons (glyphicons)
-- `angular-cli` for any console-commands 
-- `ngprime` as an alternative or extension of `Bootstrap3`(feel free to choose) which also provides charts, panels and other stuff
+- a stable `Bootstrap3` version for ui-elements, media-query driven ui-components and icons (glyphicons)
+- `angular-cli` for a bunch of console-commands which make your work way easier
+- `Primefaces` a.k.a. `PrimeNG` as an alternative and/or extension of `Bootstrap3`(feel free to choose or combine them in your code) Note: `PrimeNG` also provides charts, panels and other stuff
+
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
 ## Development server
 Run `ng serve` for a dev server. 

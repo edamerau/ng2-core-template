@@ -5,7 +5,7 @@ The projects `node-modules` include:
 
 - a stable `Bootstrap3` version for ui-elements, media-query driven ui-components and icons (glyphicons)
 - `angular-cli` for a bunch of console-commands which make your work way easier
-- `Primefaces` a.k.a. `PrimeNG` as an alternative and/or extension of `Bootstrap3`(feel free to choose or combine them in your code) Note: `PrimeNG` also provides charts, panels and other stuff
+- `Primefaces` a.k.a. [primeng](http://www.primefaces.org/primeng/#/) as an alternative and/or extension of `Bootstrap3`(feel free to choose or combine them in your code) Note: `PrimeNG` also provides charts, panels and other stuff
 - `ng-build` to quickly build your project (`.ts` to `.js`)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.

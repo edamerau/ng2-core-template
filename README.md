@@ -1,5 +1,6 @@
 # Ng2CoreTemplate
 
+## Description
 NG2CoreTemplate provides a fully responsive core-template for angular2 projects.
 The projects `node-modules` include:
 
